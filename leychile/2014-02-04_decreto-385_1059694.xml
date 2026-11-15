@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="1059694" esTratado="no tratado" fechaVersion="2014-02-24" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2014-02-04" fechaPublicacion="2014-02-24">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>385</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR Y SEGURIDAD P&#218;BLICA</Organismo>
+      <Organismo>SUBSECRETAR&#205;A DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>MODIFICA DECRETO SUPREMO N&#186; 605 DE 2004, QUE DISPONE COBRO DE TARJETA DE TURISMO A NACIONALES DE PAISES QUE INDICA SEG&#218;N MODALIDADES Y PROCEDIMIENTO QUE SE&#209;ALA</TituloNorma>
+    
+    <NombresUsoComun>
+      <NombreUsoComun>&#160;</NombreUsoComun>
+    </NombresUsoComun>
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>40791</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2014-02-24" derogado="no derogado">
+    <Texto>MODIFICA DECRETO SUPREMO N&#186; 605 DE 2004, QUE DISPONE COBRO DE TARJETA DE TURISMO A NACIONALES DE PAISES QUE INDICA SEG&#218;N MODALIDADES Y PROCEDIMIENTO QUE SE&#209;ALA
+      
+     N&#250;m. 385.- Santiago, 4 de febrero de 2014.- Vistos: El art&#237;culo 32 N&#186; 8 de la Constituci&#243;n Pol&#237;tica de la Rep&#250;blica de Chile; la ley N&#186; 20.502, que "crea el Ministerio del Interior y Seguridad P&#250;blica; el art&#237;culo 47 del decreto ley N&#186; 1.094 de 1975, que "Establece normas sobre extranjeros en Chile"; el art&#237;culo 97 del decreto supremo N&#186; 597 de 1984 del Ministerio del Interior, que "Aprueba nuevo reglamento de extranjer&#237;a"; el art&#237;culo 1&#186; de la resoluci&#243;n N&#186; 1.600 de 2008, de la Contralor&#237;a General de la Rep&#250;blica, que "Fija normas sobre exenci&#243;n del tr&#225;mite de toma de raz&#243;n"; el Oficio N&#186; 4529 de 29 de octubre de 2013 del Ministro de Relaciones Exteriores (S); el Acta de Sesi&#243;n N&#186; 6, de 28 de junio de 2013, de la Comisi&#243;n de Transporte A&#233;reo Internacional; y, el Oficio Ordinario N&#186; 1228, de 13 de diciembre de 2013, de la Tesorer&#237;a General de la Rep&#250;blica.
+      
+     Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2014-02-24" derogado="no derogado" idParte="9408854">
+      <Texto>     Art&#237;culo primero. Introd&#250;cense las siguientes modificaciones en el decreto supremo N&#186; 605, de 2004, del Ministerio del Interior que "dispone cobro de tarjeta de turismo a nacionales de pa&#237;ses que indica seg&#250;n modalidades y procedimiento que se&#241;ala":
+      
+     1. Introd&#250;cense las siguientes modificaciones en el Art&#237;culo Primero:
+      
+     a) Elim&#237;nase en el inciso primero, la expresi&#243;n "Estados Unidos de Am&#233;rica" y la coma (,) que le antecede.
+     b) Supr&#237;mase el inciso cuarto, que se&#241;ala: "Estados Unidos de Am&#233;rica: El pago de la Tarjeta de Turismo tendr&#225; validez por un per&#237;odo igual al de vigencia del pasaporte de su titular, con derecho a m&#250;ltiples entradas.".
+      
+     2. Introd&#250;cense las siguientes modificaciones en el inciso primero del Art&#237;culo Segundo:
+      
+     a) En el inciso primero, sustit&#250;yase la coma (,) que antecede a la expresi&#243;n "Canad&#225;" por la letra "y".
+     b) En el inciso primero, elim&#237;nase la expresi&#243;n "y Estados Unidos de Am&#233;rica".
+     c) En el inciso tercero, sustit&#250;yase la frase "en d&#243;lares de los Estados Unidos de Am&#233;rica y los derechos se pagar&#225;n en moneda nacional conforme al tipo de cambio establecido por el Banco Central el pen&#250;ltimo d&#237;a h&#225;bil del mes calendario inmediatamente anterior a aquel en que se devenguen estos derechos", por la frase "y los derechos se pagar&#225;n en d&#243;lares de los Estados Unidos de Am&#233;rica".
+      
+     3. Introd&#250;cense las siguientes modificaciones en el inciso primero del Art&#237;culo Tercero:
+      
+     a) Sustit&#250;yase la expresi&#243;n "al momento" por el vocablo "antes".
+     b) Sustit&#250;yase la expresi&#243;n "moneda nacional" por la expresi&#243;n "d&#243;lares de los Estados Unidos de Am&#233;rica".</Texto>
+      <Metadatos>
+        <NombreParte presente="si">PRIMERO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2014-02-24" derogado="no derogado" idParte="9408855">
+      <Texto>     Art&#237;culo segundo. Las disposiciones de este decreto entrar&#225;n en vigencia desde el momento de su publicaci&#243;n.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">SEGUNDO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2014-02-24" derogado="no derogado">
+    <Texto>     An&#243;tese, t&#243;mese raz&#243;n, publ&#237;quese, comun&#237;quese y arch&#237;vese.- SEBASTIAN PI&#209;ERA ECHENIQUE, Presidente de la Rep&#250;blica.- Andr&#233;s Chadwick Pi&#241;era, Ministro del Interior y Seguridad P&#250;blica.- Alfredo Moreno Charme, Ministro de Relaciones Exteriores.- Felipe Larra&#237;n Bascu&#241;&#225;n, Ministro de Hacienda.
+     Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Rodrigo Ubilla Mackenney, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  
+</Norma>

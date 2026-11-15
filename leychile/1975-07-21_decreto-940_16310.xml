@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="16310" esTratado="no tratado" fechaVersion="1995-02-17" SchemaVersion="1.0" derogado="derogado">
+  <Identificador fechaPromulgacion="1975-07-21" fechaPublicacion="1975-07-26">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>940</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE CONDICIONES Y PROCEDIMIENTOS PARA
+DETERMINAR Y PAGAR LOS DERECHOS POR LAS ACTUACIONES
+ADMINISTRATIVAS QUE SE INDICAN, QUE FORMULAN LOS
+EXTRANJEROS EN CHILE Y FIJA NORMAS SOBRE OTRAS MATERIAS
+ATINGENTES</TituloNorma>
+    
+    
+    
+    <FechaDerogacion>1995-02-17</FechaDerogacion>
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>29214</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1995-02-17" derogado="derogado">
+    <Texto>ESTABLECE CONDICIONES Y PROCEDIMIENTOS PARA DETERMINAR Y PAGAR LOS DERECHOS POR LAS ACTUACIONES ADMINISTRATIVAS QUE SE INDICAN, QUE FORMULAN LOS EXTRANJEROS EN CHILE Y FIJA NORMAS SOBRE OTRAS MATERIAS ATINGENTES
+
+    Santiago, 21 de Julio de 1975.- S.E. el Presidente de la Rep&#250;blica decret&#243; hoy lo que sigue:
+
+    N&#250;m.- 940.- Vistos: lo dispuesto en el Art. 6&#176; y N&#176; 10 del Art. 91&#176; del decreto ley N&#176; 1.094, de 1975; lo prescrito en la parte final del inciso II del Art. 1&#176; de de la ley 16.436, publicada el 24 de Febrero de 1966, y Teniendo presente:
+    1.- Que con el objeto de hacer operables en su totalidad las normas contenidas en el decreto ley N&#176; 1.094, de 1975, se hace imperioso completar las nuevas disposiciones relativas al pago de los derechos a que estar&#225;n afectas las actuaciones administrativas y autorizaciones que formulen los extranjeros en Chile, mediante la fijaci&#243;n de sus montos o valores.
+    2.- Que es altamente conveniente someter las solicitudes de pr&#243;rroga del permiso de turismo que formulen los extranjeros turistas a una tramitaci&#243;n especial, m&#225;s &#225;gil y expedita que la actual, sin menoscabar el control policial respectivo, mediante la delegaci&#243;n sobre el particular, en algunas autoridades de Gobierno Interior, mientras no se dicte el reglamento del citado cuerpo legal, y
+    3.- Que debido a que las atribuciones del Ministerio del Interior, en relaci&#243;n a los extranjeros se han ampliado extraordinariamente como consecuencia de la promulgaci&#243;n del decreto ley N&#176; 1.094, ya citado, se hace necesario readecuar los niveles en que actualmente se adoptan algunas resoluciones que no son esenciales, con el objeto de producir una mayor racionalidad y expedici&#243;n del sistema de extranjer&#237;a y migraci&#243;n, sobre todo en cuanto a las nuevas actuaciones administrativas que se han establecido,
+
+    Decreto:
+
+
+</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995756">
+      <Texto>    Art&#237;culo 1&#176;.- Los derechos que pagar&#225;n los extranjeros por el otorgamiento en Chile de: visaciones de residentes, cambios y pr&#243;rrogas de ellas; pr&#243;rrogas del permiso de turismo, autorizaciones de reingreso y autorizaciones para trabajar, estar&#225; sujetos al pago de los valores que se determinen en el presente decreto y al procedimiento que en &#233;l se se&#241;ala.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">1 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995757">
+      <Texto>    Art&#237;culo 2&#176;.- Los valores que pagar&#225;n los extranjeros por las actuaciones administrativas correspondientes a la concesi&#243;n, cambio o pr&#243;rroga de las visaciones de residentes, en sus distintas modalidades, ser&#225;n equivalentes a los montos que establece el Arancel Consular de Chile en su Art. 11&#176;, inciso 33&#176;; concordantes con aquellos que consulten los Acuerdos de Visaci&#243;n de Pasaportes suscritos por nuestro pa&#237;s y, en general, se aplicar&#225; el principio de reciprocidad para su determinaci&#243;n, cuando corresponda. Dichos valores se pagar&#225;n en moneda nacional, calcul&#225;ndose su monto y reajustabilidad, de acuerdo con el tipo de cambio de corredores que el Banco Central de Chile establezca para el d&#243;lar.
+    La cuant&#237;a del pago que corresponder&#225; efectuar, en cada caso, ser&#225; equivalente a aquel que se calcule de acuerdo con las condiciones se&#241;aladas en el inciso anterior y teniendo como referencia la fecha de aprobaci&#243;n de la solicitud presentada por el extranjero.
+    El Ministerio del Interior mantendr&#225; una Tabla de Valores que ser&#225; ajustada seg&#250;n las variaciones del tipo de cambio del d&#243;lar, la que deber&#225; poner en conocimiento de la Contralor&#237;a General de la Rep&#250;blica, en cada oportunidad en que se dicte.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">2 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995758">
+      <Texto>    Art&#237;culo 3&#176;.- El valor que pagar&#225;n los extranjeros por las actuaciones correspondientes a la pr&#243;rroga del permiso de turismo, ser&#225; igual para todos ellos y equivalente, en moneda nacional, a la suma de US$ 8. </Texto>
+      <Metadatos>
+        <NombreParte presente="si">3 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995759">
+      <Texto>    Art&#237;culo 4&#176;.- Los valores que se pagar&#225;n por las actuaciones correspondientes a la autorizaci&#243;n de reingreso, ser&#225; igual al valor de la visaci&#243;n de que sea titular el extranjero y al n&#250;mero de reingresos que se le autorice.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">4 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995760">
+      <Texto>    Art&#237;culo 5&#176;.- Los extranjeros que hayan ingresado en la calidad de turistas y sean autorizados para trabajar, pagar&#225;n los valores correspondientes a una visaci&#243;n de residente sujeto a contrato, con un recargo del 50% de su monto.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">5 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995761">
+      <Texto>    Art&#237;culo 6&#176;.- La cuant&#237;a de los valores, en los casos se&#241;alados en los tres art&#237;culos precedentes, ser&#225; calculada de acuerdo a las condiciones y procedimiento estipulado en el Art. 2&#176;.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">6 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995762">
+      <Texto>    Art&#237;culo 7&#176;.- Aprobada alguna de las actuaciones o autorizaciones afectas al pago de derechos, se otorgar&#225; al extranjero beneficiado una Orden de Giro, que indicar&#225; el valor que le corresponder&#225; pagar y que emitir&#225;n el Departamento de Extranjer&#237;a y Migraci&#243;n del Ministerio del Interior, Intendencia o Gobernaci&#243;n, en su caso.
+    La cancelaci&#243;n de los valores calculados se efectuar&#225; en cualquier oficina de la Tesorer&#237;a General de la Rep&#250;blica, previa presentaci&#243;n de la aludida orden de giro y dentro de los 5 d&#237;as siguientes a la emisi&#243;n de &#233;sta, cuando se trate de las actuaciones se&#241;aladas en los Arts. 4&#176; y 5&#176;.
+    La actuaci&#243;n administrativa o la expedici&#243;n de los documentos gravados, se efectuar&#225; inmediatamente de entregada la copia respectiva de la orden de giro con el timbre cancelada, que deber&#225; estampar la Oficina de la Tesorer&#237;a General de la Rep&#250;blica que recepcione el pago correspondiente.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">7 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995763">
+      <Texto>    Art&#237;culo 8&#176;.- En el caso de las actuaciones se&#241;aladas en los Arts. 2&#176; y 3&#176;, cuyo pago no se efect&#250;e dentro de un plazo prudencial, se comprender&#225; a &#233;stos como afectos al N&#176; 8 del Art. 64&#176; del decreto ley N&#176; 1.094, y en tal circunstancia se les aplicar&#225; lo dispuesto en el Art. 66&#176; del mismo texto legal.
+    En los casos de incumplimiento del plazo estipulado en el inciso 2&#176; del Art. 7&#176; del presente decreto, se considerar&#225; como revocada la autorizaci&#243;n ya aprobada. </Texto>
+      <Metadatos>
+        <NombreParte presente="si">8 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995764">
+      <Texto>    Art&#237;culo 9&#176;.- Ser&#225;n objeto de resoluciones del Jefe del Departamento de Extranjeria y Migraci&#243;n del Ministerio del Interior, las aprobaciones y rechazos de las solicitudes de visaci&#243;n de residente, en sus distintas modalidades que formulen los extranjeros en Chile, con excepci&#243;n de las de residente con asilo pol&#237;tico o refugiado. Asimismo, las aprobaciones de pr&#243;rrogas del permiso de turismo, autorizaciones de reingreso y autorizaciones para trabajar, ser&#225;n objeto de resoluciones del mismo funcionario.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">9 </NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="transitorio" tipoParte="Art&#237;culo" fechaVersion="1975-07-26" derogado="derogado" idParte="8995765">
+      <Texto>    Art&#237;culo &#250;nico transitorio. - Reempl&#225;zase la expresi&#243;n "se refieren los art&#237;culos 58&#176; y" por la de "se refiere el art&#237;culo", en el Art. 65&#176; del decreto supremo n&#250;mero 5.021, de 16 de Septiembre de 1959.
+    Las solicitudes de pr&#243;rrogas del permiso de turismo deber&#225;n ser presentadas para su aprobaci&#243;n en el Departamento de Extranjer&#237;a y Migraci&#243;n del Ministerio del Interior e Intendentes Regionales y Provinciales, seg&#250;n el domicilio del peticionario, previo pago de los derechos correspondientes.
+    Las pr&#243;rrogas concedidas por las autoridades indicadas en el inciso anterior, se remitir&#225;n, con todos sus antecedentes, a las Unidades correspondientes de la Direcci&#243;n General de Investigaciones, las cuales deber&#225;n evacuar un informe, dentro de los 15 d&#237;as siguientes, s&#243;lo en los casos en que se estime conveniente la revocaci&#243;n de la pr&#243;rroga otorgada.
+    Conocidos los antecedentes que aconsejen la revocaci&#243;n de la pr&#243;rroga del permiso de turismo por los Intendentes, estas autoridades enviar&#225;n los informes policiales al Ministerio del Interior, quien resolver&#225; su revocaci&#243;n, por medio del Departamento de Extranjer&#237;a y Migraci&#243;n.
+    La presente modificaci&#243;n del decreto supremo n&#250;mero 5.021, de 1959, y las disposiciones de este art&#237;culo operar&#225;n hasta que se dicte el reglamento del decreto ley N&#176; 1.094, de 1975.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">1 TRANSITORIO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+        <FechaDerogacion>1995-02-17</FechaDerogacion>
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1975-07-26" derogado="derogado">
+    <Texto>    T&#243;mese raz&#243;n, reg&#237;strese y publ&#237;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#233;rcito Presidente de la Rep&#250;blica.- Ra&#250;l Benavides Escobar, General de Divisi&#243;n, Ministro del Interior.
+    Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Enrique Montero Marx, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  
+</Norma>

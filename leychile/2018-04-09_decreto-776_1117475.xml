@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:ns0="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" ns0:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="1117475" esTratado="no tratado" fechaVersion="2018-04-17" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2018-04-09" fechaPublicacion="2018-04-17">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>776</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR Y SEGURIDAD P&#218;BLICA</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE VISTO CONSULAR DE TURISMO A NACIONALES DE HAIT&#205;</TituloNorma>
+    
+    <NombresUsoComun>
+      <NombreUsoComun>&#160;</NombreUsoComun>
+    </NombresUsoComun>
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>42034</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2018-04-17" derogado="no derogado">
+    <Texto>ESTABLECE VISTO CONSULAR DE TURISMO A NACIONALES DE HAIT&#205;
+ 
+     N&#250;m. 776.- Santiago, 9 de abril de 2018.
+ 
+     Vistos:
+ 
+     Lo dispuesto en los art&#237;culos 24, 32 n&#250;mero 6 y 35, todos de la Constituci&#243;n Pol&#237;tica de la Rep&#250;blica; en el DFL 1-19.653 que fija texto refundido, coordinado y sistematizado de la ley N&#176; 18.575, Org&#225;nica Constitucional de Bases Generales de la Administraci&#243;n del Estado; lo establecido en el decreto ley N&#176; 1.094, de 1975, del Ministerio del Interior, que establece Normas sobre Extranjeros en Chile, especialmente en sus art&#237;culos 44 y siguientes y lo establecido en el decreto N&#176; 597, de 1984, del Ministerio del Interior, que Aprueba el Nuevo Reglamento de Extranjer&#237;a.
+ 
+     Considerando:
+ 
+     1.- Que es de inter&#233;s nacional dotar al pa&#237;s de una migraci&#243;n ordenada, segura y regular.
+     2.- Que el aumento sostenido de ciudadanos de origen haitiano que ingresan al pa&#237;s con fines declarados de turismo pero permanecen en Chile en situaci&#243;n irregular, es una realidad insoslayable.
+     3.- Que, al permanecer en Chile, m&#225;s all&#225; del tiempo previsto para los turistas, expone a los migrantes y a sus familias a ser objeto de redes de tr&#225;fico de personas y a otros riesgos derivados de su situaci&#243;n irregular en el pa&#237;s.
+     4.- Que tales circunstancias exigen una gesti&#243;n integral que tienda a la gobernabilidad migratoria, permanencia regular en el pa&#237;s, protecci&#243;n al migrante y ejercicio pleno del estado de derecho.
+     Que, de conformidad a los fundamentos expuestos, vengo en dictar el siguiente:
+ 
+     Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2018-04-17" derogado="no derogado" idParte="9906017">
+      <Texto>     Art&#237;culo &#250;nico: Disp&#243;ngase, como requisito para el ingreso al pa&#237;s con fines de recreo, deportivos, religiosos u otros similares, la obtenci&#243;n de Visto Consular de Turismo Simple con derecho a ingreso y permanencia en Chile en tal calidad, por el periodo legal que corresponda, a todo ciudadano haitiano que desee ingresar al pa&#237;s, sin prop&#243;sito de inmigraci&#243;n, residencia o desarrollo de actividades remuneradas.
+     Lo dispuesto comenzar&#225; a regir a contar de la total tramitaci&#243;n del presente decreto.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">&#218;NICO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2018-04-17" derogado="no derogado">
+    <Texto>     An&#243;tese, t&#243;mese raz&#243;n, comun&#237;quese y publ&#237;quese.- SEBASTI&#193;N PI&#209;ERA ECHENIQUE, Presidente de la Rep&#250;blica.- Andr&#233;s Chadwick Pi&#241;era, Ministro del Interior y Seguridad P&#250;blica.- Roberto Ampuero Espinoza, Ministro de Relaciones Exteriores.
+     Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Rodrigo Ubilla Mackenney, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  
+</Norma>

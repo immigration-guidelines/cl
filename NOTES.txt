@@ -1,0 +1,101 @@
+Chile: what was checked, what was saved, what is missing
+=========================================================
+Last full run: 15 November 2026.   Re-run:  python3 download_cl.py   (from the folder above cl/)
+
+Short version
+-------------
+Chile has no single published manual for migration case officers. Guidance is issued as numbered
+circulares, oficios (circulares) and resoluciones exentas, and it is published in four places, none of
+them complete:
+
+1. Diario Oficial / LeyChile: only the acts that must be gazetted (resolutions and decrees of general
+   application). Obtained in full as LeyChile XML -> leychile/.
+2. The old Departamento de Extranjería y Migración (DEM) site, extranjeria.gob.cl, closed in 2022: it
+   listed about 40 circulars for 2017-2021. Only the Wayback Machine has them, and for a third of them
+   its copy is missing or cut off at 1 MiB -> dem/ and not-obtained.tsv.
+3. The Servicio Nacional de Migraciones (SERMIG) website: almost nothing. One page of oficios to other
+   bodies and a few resolutions linked from news items -> sermig/.
+4. SERMIG's Transparencia Activa pages on portaltransparencia.cl: THE place where the Service lists its
+   own "circulares de uso interno" (25 of them, 2021-2026) and its protocol resolutions. Every document
+   link there points to Google Drive. Drive's robots.txt allows only the viewer page, not the download
+   address, so none of these was fetched. They are listed, with title, date and link, in
+   not-obtained.tsv; each takes one click in a browser. A file saved by hand under the name given there
+   is indexed with its title on the next run. This is the main gap of the collection.
+
+What is in the folder (80 files, 35 MB with the cached listings)
+----------------------------------------------------------------
+  leychile/  42 XML   1970-2026   gazetted resolutions and decrees (Interior 21, SERMIG 8, Relaciones
+                                  Exteriores 12, Registro Civil 1)
+  dem/       26 PDF   2008-2021   circulars 18, oficios circulares 3, oficio ordinario 1, exempt resolutions 2,
+                                  presidential instructivos 2 - all from the Wayback Machine
+  sermig/    12 PDF   2020-2023   9 oficios, 3 exempt resolutions from serviciomigraciones.cl
+  transparencia/  0               26 SERMIG circulars and resolutions listed, none fetchable (Google Drive)
+  listings/           cached listing pages and search results the script reuses
+  index.tsv, not-obtained.tsv (45 rows: 26 Drive, 14 archive, 5 cited only)
+
+Sources used
+------------
+- LeyChile (Biblioteca del Congreso Nacional)
+    search:   https://nuevo.leychile.cl/servicios/Consulta/listaresultadosimple?cadena=...   (JSON, the
+              service behind www.bcn.cl/leychile; 16 keyword searches)
+    texts:    https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=N                        (documented XML)
+    robots.txt: none (both hosts answer /robots.txt with an HTML page).
+    Selection: resolutions, exempt decrees and decrees whose issuing body is the Ministerio del Interior
+    (incl. Subsecretaría del Interior, DEM, SERMIG) or Relaciones Exteriores and whose title is about
+    foreigners / migration / visas / refugees / travel documents. Left out on purpose: laws, the
+    regulations themselves (Decreto 296/2021, Decreto 597/1984, Decreto 837/2010 and their amendments),
+    treaties, staffing, delegation-of-signature, budget, councils and committees, "Sello Migrante",
+    individual expulsions, and the 50-odd weekly decrees of 2020-21 extending the COVID border closure
+    (Decreto 102/2020 series). The XML is the consolidated text; the date in the file name is the date of
+    the act (promulgation), not of gazetting.
+- Wayback Machine copies of www.extranjeria.gob.cl
+    listing pages /legislacion-migratoria/ (2015-2019) and /leyes-migratorias/ (2019-2022), one capture
+    per quarter, plus archived PDFs whose name says circular / oficio / instructivo / protocolo /
+    resolución. robots.txt: none (404). Dates and numbers of the saved files were read from the documents
+    (most are scans) and are written into the script's META table.
+- https://serviciomigraciones.cl  (robots.txt: none, 404; WordPress REST API is switched off)
+    all 665 pages in the page, guia and post sitemaps were read once; later runs re-read only pages whose
+    sitemap date changed. Documents: /comunicaciones-y-oficios/ (9 oficios), /aranceles-migratorios/
+    (fee resolution 129.194), and two resolutions linked from a news item.
+    /normativa-migratoria/ lists only laws and decrees, all by link to LeyChile.
+- https://www.portaltransparencia.cl/PortalPdT/directorio-de-organismos-regulados/?org=AB099
+    robots.txt allows these pages and asks for Crawl-delay: 60, which is kept. Read: "02 Marco Normativo"
+    (27 entries) and "07 Actos y resoluciones con efectos sobre terceros > Circulares" (25 entries).
+
+Checked and not used
+--------------------
+- portaltransparencia.cl "01 Actos publicados en el Diario Oficial" (67 entries): the same acts as
+  LeyChile, mostly staffing; links go to Google Drive or interior.gob.cl.
+- portaltransparencia.cl section 07, other sub-lists ("Reconocimiento de derechos", "Resoluciones
+  Departamento de Refugio", "Histórico SERMIG", "Rechazos", ...): individual case decisions. Out of scope.
+- www.interior.gob.cl/transparencia/ (Subsecretaría del Interior, where pre-2021 DEM acts were listed):
+  answers scripts with a JavaScript bot check. Not used.
+- www.diariooficial.interior.gob.cl: robots.txt allows the "normas generales" PDFs but not the search or
+  the editions, so there is no permitted way to find them by script; LeyChile has the same texts.
+- drive.google.com / drive.usercontent.google.com: robots.txt disallows the download addresses.
+- extranjeria.gob.cl itself: no longer answers (time-out; www has a certificate for another name).
+- Left out as applicant material: the TLC "guides for business persons" (manual_mexico, manual_tlc_*),
+  the Antofagasta "instructivo" for applying by post, forms, leaflets, statistics, COSOC minutes,
+  the Dirección del Trabajo oficio 843/2023 and Contraloría dictamen D75/2026 linked from SERMIG news
+  (not issued by the migration authority).
+
+Things that went wrong
+----------------------
+- The Wayback Machine refused connections ("connection refused", HTTP 503) on and off during the run.
+  The script paces it at 8 s and stops asking after three failures in a row; it took several runs to get
+  through the list. Items it definitely cannot supply are remembered in listings/dem-unavailable.json
+  and not asked for again (delete that file to retry).
+- Several DEM circulars exist in the archive only as a capture cut off at exactly 1,048,576 bytes.
+  Those are broken PDFs and were not kept.
+
+Completeness doubts
+-------------------
+- SERMIG circulars: none held (see point 4). The portal list itself starts in mid-2021 and skips
+  numbers, so even that list is not the full series.
+- DEM circulars before 2017 were never on the website, apart from Oficio Circular 26465 (2009) and
+  Circular 30.722 (2014, archive copy cut off). Older ones are known only from citations.
+- Refugee procedure: no circular or instructivo on refugee status determination was found published
+  anywhere; only the law, its regulation and Ley 21.655 (2024).
+- LeyChile search is by keyword; an act with an unusual title could be missed.
+- Ministerio de Relaciones Exteriores consular instructions on visas (e.g. the 2018 oficio circular on
+  the "visa de responsabilidad democrática") are not published.

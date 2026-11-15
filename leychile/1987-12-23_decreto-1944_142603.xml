@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="142603" esTratado="no tratado" fechaVersion="1988-02-12" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="1987-12-23" fechaPublicacion="1988-02-12">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>1944</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR</Organismo>
+      <Organismo>SUBSECRETARIA DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE VISA DE TURISMO O REGISTRO CONSULAR DE LOS
+PASAPORTES DE EXTRANJEROS DE NACIONALIDAD QUE INDICA</TituloNorma>
+    
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>32994</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1988-02-12" derogado="no derogado">
+    <Texto>ESTABLECE VISA DE TURISMO O REGISTRO CONSULAR DE LOS PASAPORTES DE EXTRANJEROS DE NACIONALIDAD QUE INDICA 
+     Santiago, 23 de Diciembre de 1987.- Hoy se decret&#243; lo que sigue:
+     N&#250;m. 1.944.- Visto: Estos antecedentes; y Teniendo presente: Que, por razones de inter&#233;s nacional y reciprocidad internacional, se estima conveniente establecer un registro consular previo de los pasaportes ordinarios, para ingresar al territorio nacional en calidad de turistas, de los extranjeros nacionales de las Rep&#250;blicas de Corea, Francia y Venezuela, y De conformidad con lo dispuesto en el art&#237;culo 45 del DL No. 1.094 de 1975, reemplazado por el DL 1.256 del mismo a&#241;o, y el art&#237;culo 89 del DS No. 597 de 1984, del Ministerio del Interior, que aprob&#243; el nuevo Reglamento de Extranjer&#237;a,
+
+     Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1988-02-12" derogado="no derogado" idParte="8349404">
+      <Texto>1.- Los extranjeros titulares de pasaportes ordinarios de las Rep&#250;blicas de Corea, Francia y Venezuela, para el ingreso al pa&#237;s en calidad de turista, deber&#225;n obtener el registro previo de tales documentos ante autoridad consular chilena o por quien la represente en el exterior, seg&#250;n corresponda.
+2.- Los derechos que correspondiere devengar por tales registros o "vistos de turismo", y los plazos de vigencia que autoricen" ser&#225;n aquellos que contemple el Arancel Consular, los Acuerdos Bilaterales y/o la reciprocidad internacional, respectivamente.</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1988-02-12" derogado="no derogado">
+    <Texto>     An&#243;tese, t&#243;mese raz&#243;n y publ&#237;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#233;rcito, Presidente de la Rep&#250;blica.- Sergio Fern&#225;ndez Fern&#225;ndez, Ministro del Interior.- Ricardo Garc&#237;a Rodr&#237;guez, Ministro de Relaciones Exteriores.
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Alberto Cardemil Herrera, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  
+</Norma>

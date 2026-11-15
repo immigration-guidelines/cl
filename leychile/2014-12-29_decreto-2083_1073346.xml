@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="1073346" esTratado="no tratado" fechaVersion="2015-01-10" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2014-12-29" fechaPublicacion="2015-01-10">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>2083</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR Y SEGURIDAD P&#218;BLICA</Organismo>
+      <Organismo>SUBSECRETAR&#205;A DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>MODIFICA DECRETO N&#186; 605, DE 2004, QUE DISPONE COBRO DE TARJETA DE TURISMO A NACIONALES DE PA&#205;SES QUE INDICA SEG&#218;N MODALIDADES Y PROCEDIMIENTO QUE SE&#209;ALA</TituloNorma>
+    
+    <NombresUsoComun>
+      <NombreUsoComun>&#160;</NombreUsoComun>
+    </NombresUsoComun>
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>41053</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2015-01-10" derogado="no derogado">
+    <Texto>
+MODIFICA DECRETO N&#186; 605, DE 2004, QUE DISPONE COBRO DE TARJETA DE TURISMO A NACIONALES DE PA&#205;SES QUE INDICA SEG&#218;N MODALIDADES Y PROCEDIMIENTO QUE SE&#209;ALA
+      
+     N&#250;m. 2.083.- Santiago, 29 de diciembre de 2014.- Vistos: El art&#237;culo 32 N&#186; 8 de la Constituci&#243;n Pol&#237;tica de la Rep&#250;blica de Chile; la ley N&#186; 20.502, que "Crea el Ministerio del Interior y Seguridad P&#250;blica"; el art&#237;culo 47 del decreto ley N&#186; 1.094, de 1975, que "Establece normas sobre extranjeros en Chile"; el art&#237;culo 97 del decreto supremo N&#186; 597, de 1984, del Ministerio del Interior, que "Aprueba nuevo reglamento de extranjer&#237;a"; el art&#237;culo 1&#186; de la resoluci&#243;n N&#186; 1.600, de 2008, de la Contralor&#237;a General de la Rep&#250;blica, que "Fija normas sobre exenci&#243;n del tr&#225;mite de toma de raz&#243;n"; el oficio reservado RR.EE (Digeconsu) N&#186; 5.757, de 25 de noviembre de 2014, del Subsecretario de Relaciones Exteriores.
+
+     Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2015-01-10" derogado="no derogado" idParte="9547981">
+      <Texto>
+     Art&#237;culo primero. Introd&#250;cense las siguientes modificaciones en el decreto supremo N&#186; 605, de 2004, del Ministerio del Interior, que "dispone cobro de tarjeta de turismo a nacionales de pa&#237;ses que indica seg&#250;n modalidades y procedimiento que se&#241;ala":
+     1. Introd&#250;cense las siguientes modificaciones en el Art&#237;culo Primero:
+
+     a) Elim&#237;nase en el encabezado, la expresi&#243;n "Canad&#225;" y la coma (,) que le antecede.
+     b) Supr&#237;mase el p&#225;rrafo que se&#241;ala: "Canad&#225;: El pago de la Tarjeta de Turismo tendr&#225; validez por un periodo igual al de vigencia del pasaporte de su titular, con m&#250;ltiples entradas.".
+     2. Introd&#250;cese la siguiente modificaci&#243;n en el Art&#237;culo Segundo:
+     En el inciso primero, elim&#237;nase la expresi&#243;n "y Canad&#225;".</Texto>
+      <Metadatos>
+        <NombreParte presente="si">PRIMERO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2015-01-10" derogado="no derogado" idParte="9547982">
+      <Texto>
+     Art&#237;culo segundo. Las disposiciones de este decreto entrar&#225;n en vigencia desde el momento de su publicaci&#243;n.</Texto>
+      <Metadatos>
+        <NombreParte presente="si">SEGUNDO</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2015-01-10" derogado="no derogado">
+    <Texto>
+     An&#243;tese, t&#243;mese raz&#243;n, publ&#237;quese, comun&#237;quese y arch&#237;vese.- MICHELLE BACHELET JERIA, Presidenta de la Rep&#250;blica.- Rodrigo Pe&#241;ailillo Brice&#241;o, Ministro del Interior y Seguridad P&#250;blica.- Heraldo Mu&#241;oz Valenzuela, Ministro de Relaciones Exteriores.- Alberto Arenas de Mesa, Ministro de Hacienda.
+     Lo que transcribo a Ud.  para su conocimiento.- Atentamente, Mahmud Aleuy Pe&#241;a y Lillo, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  
+</Norma>

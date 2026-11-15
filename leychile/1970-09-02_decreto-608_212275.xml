@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="212275" esTratado="no tratado" fechaVersion="1970-10-05" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="1970-09-02" fechaPublicacion="1970-10-05">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>608</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DE RELACIONES EXTERIORES</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>AUTORIZA AL MINISTERIO DE RELACIONES EXTERIORES PARA
+CONCEDER VISAS MULTIPLES</TituloNorma>
+    
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>27763</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1970-10-05" derogado="no derogado">
+    <Texto>AUTORIZA AL MINISTERIO DE RELACIONES EXTERIORES PARA CONCEDER VISAS MULTIPLES
+
+     Santiago, 2 de Septiembre de 1970.- Hoy se decret&#243; lo que sigue:
+
+     N&#250;m. 608.- Considerando: Que por medio de la ley N&#176; 11.729 se fij&#243; el texto actualmente vigente del Arancel Consular de Chile;
+
+     Que dicha ley en su art&#237;culo 11&#186;, N&#176; 33, establece un derecho de US $ 8.- (ocho d&#243;lares estadounidenses) por visar un pasaporte expedido por una autoridad extranjera;
+
+     Que el mismo art&#237;culo establece que el Gobierno podr&#225; autorizar a los C&#243;nsules a cobrar un derecho superior o inferior al se&#241;alado, en caso de reciprocidad;
+
+     Que el mencionado cobro de US $ 8, se aplica a cada visaci&#243;n o autorizaci&#243;n de ingreso al pa&#237;s individualmente considerada;
+
+     Que el Reglamento de Extranjer&#237;a, fijado por medio del decreto de Interior N&#176; 5.021, de 1959, en su art&#237;culo 78&#186;, concede al Ministerio de Relaciones Exteriores la facultad de autorizar a los interesados, en cada caso particular, para que retornen a Chile sin necesidad de obtener nuevos permisos de ingreso o visaciones y se les exime, tambi&#233;n, de la obligaci&#243;n de cartas de reingreso cuando por razones derivadas de la naturaleza del trabajo que desarrollan, realicen habitualmente viajes entre Chile y el Extranjero;
+
+     Que el otorgamiento de estas visaciones m&#250;ltiples, de no aplicarse un mayor gravamen que el se&#241;alado, no guardar&#237;a el trato rec&#237;proco que el Arancel Consular de Chile prev&#233;e y causar&#237;a una norma infundada de los derechos consulares, y
+
+     Vistos: el art&#237;culo 72&#186; N&#176; de la Constituci&#243;n Pol&#237;tica del Estado; el art&#237;culo 5&#186; de la ley N&#176; 13.353, y el art&#237;culo 11&#186; de la ley N&#176; 11.729,
+
+       Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1970-10-05" derogado="no derogado" idParte="6430910">
+      <Texto>     1.- Autor&#237;zase al Ministro de Relaciones Exteriores para conceder visaciones de residentes v&#225;lidas para varias salidas y reingresos y eximir a los beneficiarios de la obtenci&#243;n de cartas de reingreso, en cada caso particular.
+
+     2.- Por el otorgamiento de las visaciones se&#241;aladas se cobrar&#225; un derecho consular de US S 50.- (cincuenta d&#243;lares estadounidenses).</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1970-10-05" derogado="no derogado">
+    <Texto>     T&#243;mese raz&#243;n, comun&#237;quese y publ&#237;quese.- E. FREI M.- Gabriel Vald&#233;s S.
+
+     Lo que transcribo a US. para su conocimiento.- Dios guarde a US.- Eugenio Ovalle Devoto. Director General Administrativo.</Texto>
+  </Promulgacion>
+  
+</Norma>

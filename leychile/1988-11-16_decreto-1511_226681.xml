@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="226681" esTratado="no tratado" fechaVersion="1989-05-02" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="1988-11-16" fechaPublicacion="1989-05-02">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Decreto</Tipo>
+        <Numero>1511</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO DEL INTERIOR</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE OBLIGACION DE REGISTRO CONSULAR DE PASAPORTES
+O VISTO DE TURISMO PARA CIUDADANOS NORUEGOS</TituloNorma>
+    
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>33361</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="1989-05-02" derogado="no derogado">
+    <Texto>ESTABLECE OBLIGACION DE REGISTRO CONSULAR DE PASAPORTES O VISTO DE TURISMO PARA CIUDADANOS NORUEGOS
+
+     Santiago, 16 de Noviembre de 1988.- Hoy se decret&#243; lo que sigue:
+     N&#250;m. 1.511.- Teniendo presente:
+
+     Que La Real Embajada de Noruega comunic&#243; que su Gobierno proced&#237;a a denunciar a partir del 1 de julio de 1988 el Acuerdo sobre Exenci&#243;n de Visas perfeccionado por Cambio de Notas el 16 de marzo de 1953; que, por reciprocidad internacional se estima conveniente establecer la obligaci&#243;n de los nacionales noruegos de obtener el registro previo o visto consular de sus pasaportes ordinarios, para ingresar al territorio nacional en calidad de turista, y
+     De conformidad con lo dispuesto en el art&#237;culo 45 inciso 2&#176; del DL 1.094 de 1975, y el art&#237;culo 89 del DS 597 de 1984, del Ministerio del Interior, que aprob&#243; el nuevo Reglamento de Extranjer&#237;a.
+
+     Decreto:</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="1989-05-02" derogado="no derogado" idParte="8370949">
+      <Texto>     1.- Los extranjeros titulares de pasaporte ordinario del Reino de Noruega, para el ingreso al pa&#237;s en calidad de turista, deber&#225;n obtener el registro previo de tales documentos ante la autoridad consular chilena o por quien la represente en el exterior, seg&#250;n corresponda.
+     2.- Los derechos que correspondiere devengar por tales registros o "vistos de turismo" y los plazos de vigencia que autoricen, ser&#225;n aquellos que contemple el Arancel Consular, los Acuerdos Bilaterales y/o la reciprocidad internacional, respectivamente.
+     3.- Para los extranjeros titulares de pasaporte diplom&#225;tico u oficial noruegos queda vigente y establecido en el Acuerdo de Exenci&#243;n de Visas de 1953, quienes podr&#225;n continuar entrando a los territorios de Cada Parte, sin que para ello requieran contar con alguna autorizaci&#243;n consular previa.</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="no">&#160;</TituloParte>
+        
+      </Metadatos>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="1989-05-02" derogado="no derogado">
+    <Texto>     An&#243;tese, t&#243;mese raz&#243;n, comun&#237;quese y publ&#237;quese.- AUGUSTO PINOCHET UGARTE, General de Ej&#233;rcito, Presidente de la Rep&#250;blica.- Carlos Francisco C&#225;ceres C., Ministro del Interior.- Ram&#243;n Vald&#233;s Rosas, Coronel de Ej&#233;rcito, Ministro de Relaciones Exteriores subrogante.
+     Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud.- Gonzalo Garc&#237;a Balmaceda, Subsecretario del Interior.</Texto>
+  </Promulgacion>
+  <Anexos>
+    <Anexo fechaVersion="1989-05-02" derogado="no derogado" idParte="8370951" transitorio="no transitorio">
+      <Metadatos>
+        <Titulo>CONTRALORIA GENERAL DE LA REPUBLICA
+Divisi&#243;n Jur&#237;dica
+ 
+Cursa con alcance el decreto No. 1.511, de 1988,
+del Ministerio del Interior</Titulo>
+        
+      </Metadatos>
+      <Texto>CONTRALORIA GENERAL DE LA REPUBLICA Divisi&#243;n Jur&#237;dica
+
+     Cursa con alcance el decreto No. 1.511, de 1988, del Ministerio del Interior
+     N&#176; 10.165.- Santiago, 19 de Abril de 1989.
+
+     Esta Contralor&#237;a General ha tomado raz&#243;n del instrumento del ep&#237;grafe, que establece la obligaci&#243;n de registro previo de sus pasaportes a los extranjeros que indica, pero cumple con hacer presente que entiende que la exenci&#243;n de visa que se contempla en el No. 3 del acto administrativo, s&#243;lo se aplicar&#225; a los extranjeros que ingresen al pa&#237;s en calidad de turistas.
+     Con el alcance que antecede se ha dado curso al decreto del rubro.
+     Dios guarde a US.- Osvaldo Iturriaga Ruiz, Contralor General de la Rep&#250;blica.
+
+Al se&#241;or Ministro del Interior Presente </Texto>
+    </Anexo>
+  </Anexos>
+</Norma>
